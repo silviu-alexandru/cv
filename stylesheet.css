@@ -8,7 +8,6 @@ img {
 	margin-right:10%;
 	margin-top:5%;
 	width:75%;
-	border:1px solid blue;
 }
 
 #header {
@@ -55,6 +54,10 @@ h4 {
 
 li {
 	list-style-type: square;
+}
+
+a {
+	text-decoration:none;
 }
 
 a:hover {
