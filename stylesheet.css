@@ -10,6 +10,14 @@ img {
 	width:75%;
 }
 
+#download {
+	position:relative;
+	margin-left:25%;
+	margin-right:25%;
+	margin-top:25%;
+	width:45%;
+}
+
 #header {
 	z-index: 1;
 	position: fixed;
